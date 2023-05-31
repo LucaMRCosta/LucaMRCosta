@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+👋 Hello! Welcome to my Github profile.
+My name is Luca and my nickname is LucaMRCosta!
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+          
 <!--
 **LucaMRCosta/LucaMRCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
