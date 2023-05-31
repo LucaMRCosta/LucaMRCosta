@@ -1,9 +1,16 @@
 ### Hi there 👋
 
 👋 Hello! Welcome to my Github profile.
+I'm a Brazilian guy and starting in programming. I'm looking for connections and searching for a first professional opportunity in this world.
 My name is Luca and my nickname is LucaMRCosta!
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  width="70" height="70"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" height="70"/>
+          
+ 
+
           
 <!--
 **LucaMRCosta/LucaMRCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
